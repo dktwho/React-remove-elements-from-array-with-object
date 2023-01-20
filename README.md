@@ -1,3 +1,7 @@
+# Содержание
+
+1. Реализация удаления из массива объектов по нажатию на кнопку, каждая кнопка соответсвует собственному объекту
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
